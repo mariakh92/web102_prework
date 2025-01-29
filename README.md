@@ -19,11 +19,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src= "C:\Users\Maria\Downloads\Walk through.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= "https://imgur.com/erFCeGf " width= "500px" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with imgur  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
