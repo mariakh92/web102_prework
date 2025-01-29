@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
- ![alt text](https://imgur.com/erFCeGf.gif)
+ ![alt text](https://imgur.com/y9YWzgG)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
