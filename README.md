@@ -19,11 +19,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
- ![alt text](https://imgur.com
-
-https://github.com/user-attachments/assets/23b123f0-5e13-4c8e-b2a7-02651cbd37a2
-
-/y9YWzgG.gif)
+ ![alt text](![Walk through](https://github.com/user-attachments/assets/1181a9a6-87c2-4254-8619-ee3ab750b31e)
+)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
