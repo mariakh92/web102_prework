@@ -19,8 +19,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
- ![alt text](![Walk through](https://github.com/user-attachments/assets/1181a9a6-87c2-4254-8619-ee3ab750b31e)
-)
+ ![alt text](![Walk through](![Maria's Video - Jan 28, 2025-VEED](https://github.com/user-attachments/assets/fc5ebdde-d062-4ebb-b6f2-0cdc7f5d968a)
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
